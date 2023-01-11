@@ -1,1 +1,1 @@
-"# sentiment-classifier-for-books" 
+A NLP Project for classifying sentiments of the book "The Brothers Karamazov" by Fyodor Dostoyevsky. The book was downloaded as a .txt file from Project Gutenburg as a part of this project itself, and was divided into chapters - and each chapter was analysed with regards to its sentiments. 
